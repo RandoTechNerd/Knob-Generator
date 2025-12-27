@@ -270,10 +270,6 @@ with st.sidebar:
             st.caption("✅ Bottom")
             nut_loc = "Bottom"
             
-        st.markdown("---")
-        st.image(get_path("ui_inspire.png"), width=100)
-        st.markdown("[Read Inspiration Post](#)")
-            
         nut_info = NUT_TYPES[nut_choice]
         st.caption(f"Trap: {nut_info['width']}mm Hex x {nut_info['height']}mm H")
         
