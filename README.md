@@ -2,8 +2,6 @@
 
 A specialized design tool for creating custom, 3D-printable knobs for potentiometers, encoders, and mechanical machine parts. Built with Python and Streamlit, it exports ready-to-print STL files.
 
-![Knob Generator UI](ui_inspire.png)
-
 ## ✨ Features
 *   **Custom Geometry:** Adjust diameter, height, and number of lobes.
 *   **Shaft Options:** Support for D-Shafts, Round Holes, and Nut Traps (Hex nuts).
